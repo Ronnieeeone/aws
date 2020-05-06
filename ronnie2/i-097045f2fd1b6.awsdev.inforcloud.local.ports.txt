@@ -1,0 +1,83 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 127.0.0.1:51679         0.0.0.0:*               LISTEN      18712/agent         
+tcp        0      0 127.0.0.1:32000         0.0.0.0:*               LISTEN      7050/java           
+tcp        0      0 127.0.0.1:199           0.0.0.0:*               LISTEN      12313/snmpd         
+tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN      2934/rpcbind        
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      10887/sshd          
+tcp        0      0 127.0.0.1:25            0.0.0.0:*               LISTEN      3786/master         
+tcp        0      0 127.0.0.1:35995         0.0.0.0:*               LISTEN      3636/containerd     
+tcp        0      0 127.0.0.1:37949         0.0.0.0:*               LISTEN      7216/ir_agent       
+tcp       54      0 10.240.37.95:46840      52.217.14.4:443         CLOSE_WAIT  5391/codedeploy-age 
+tcp        0      0 10.240.37.95:45868      52.94.227.208:443       TIME_WAIT   -                   
+tcp        0      0 10.240.37.95:37508      52.200.137.249:443      ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:48576      52.46.128.96:443        ESTABLISHED 5391/codedeploy-age 
+tcp        0      0 10.240.37.95:39206      54.234.67.104:443       ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:34262      10.240.4.27:50143       ESTABLISHED 10875/winbindd      
+tcp        0      0 10.240.37.95:54352      34.234.71.250:443       ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:56884      52.46.128.123:443       ESTABLISHED 3960/amazon-ssm-age 
+tcp        0      0 10.240.37.95:33456      18.209.36.138:443       ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:46454      3.84.183.150:443        ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:33406      3.82.54.244:443         ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:22         10.251.0.178:43822      ESTABLISHED 17122/sshd: ec2-use 
+tcp        0      0 10.240.37.95:47224      10.240.4.27:49155       ESTABLISHED 10875/winbindd      
+tcp        0      0 127.0.0.1:50832         127.0.0.1:37949         ESTABLISHED 8379/ir_agent       
+tcp        0      0 10.240.37.95:50912      18.234.82.186:443       ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:57586      18.234.87.241:443       ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:33234      52.119.197.249:443      ESTABLISHED 3960/amazon-ssm-age 
+tcp        0      0 127.0.0.1:35872         127.0.0.1:51678         TIME_WAIT   -                   
+tcp        0      0 10.240.37.95:55242      34.226.68.35:443        ESTABLISHED 7216/ir_agent       
+tcp        0      0 10.240.37.95:47788      54.239.18.202:443       ESTABLISHED 18712/agent         
+tcp        0      0 127.0.0.1:32000         127.0.0.1:31000         ESTABLISHED 7048/wrapper        
+tcp        0      0 10.240.37.95:49424      100.24.51.70:443        ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:55561      54.183.140.32:443       ESTABLISHED 12627/falcon-sensor 
+tcp        0      0 10.240.37.95:37270      54.239.21.88:443        ESTABLISHED 18712/agent         
+tcp        0      0 127.0.0.1:37949         127.0.0.1:50832         ESTABLISHED 7216/ir_agent       
+tcp        0      0 127.0.0.1:35924         127.0.0.1:51678         TIME_WAIT   -                   
+tcp        0      0 10.240.37.95:45854      52.94.227.208:443       TIME_WAIT   -                   
+tcp        0      0 10.240.37.95:58780      34.204.93.32:443        ESTABLISHED 16308/telegraf      
+tcp        0      0 10.240.37.95:43012      54.175.83.63:443        ESTABLISHED 16308/telegraf      
+tcp6       0      0 :::32863                :::*                    LISTEN      29521/docker-proxy  
+tcp6       0      0 :::32864                :::*                    LISTEN      29592/docker-proxy  
+tcp6       0      0 :::32865                :::*                    LISTEN      29900/docker-proxy  
+tcp6       0      0 :::32866                :::*                    LISTEN      29945/docker-proxy  
+tcp6       0      0 :::32867                :::*                    LISTEN      29977/docker-proxy  
+tcp6       0      0 :::32774                :::*                    LISTEN      24972/docker-proxy  
+tcp6       0      0 :::32809                :::*                    LISTEN      19994/docker-proxy  
+tcp6       0      0 :::32845                :::*                    LISTEN      27091/docker-proxy  
+tcp6       0      0 :::32846                :::*                    LISTEN      27207/docker-proxy  
+tcp6       0      0 :::32847                :::*                    LISTEN      27296/docker-proxy  
+tcp6       0      0 :::111                  :::*                    LISTEN      2934/rpcbind        
+tcp6       0      0 :::32848                :::*                    LISTEN      27309/docker-proxy  
+tcp6       0      0 :::32784                :::*                    LISTEN      26644/docker-proxy  
+tcp6       0      0 :::32849                :::*                    LISTEN      27325/docker-proxy  
+tcp6       0      0 :::32817                :::*                    LISTEN      26038/docker-proxy  
+tcp6       0      0 :::32850                :::*                    LISTEN      27439/docker-proxy  
+tcp6       0      0 :::32851                :::*                    LISTEN      27620/docker-proxy  
+tcp6       0      0 :::32852                :::*                    LISTEN      27650/docker-proxy  
+tcp6       0      0 :::32853                :::*                    LISTEN      27814/docker-proxy  
+tcp6       0      0 :::32854                :::*                    LISTEN      28045/docker-proxy  
+tcp6       0      0 :::22                   :::*                    LISTEN      10887/sshd          
+tcp6       0      0 :::32855                :::*                    LISTEN      28098/docker-proxy  
+tcp6       0      0 :::32823                :::*                    LISTEN      7573/docker-proxy   
+tcp6       0      0 :::32856                :::*                    LISTEN      28150/docker-proxy  
+tcp6       0      0 :::32857                :::*                    LISTEN      28275/docker-proxy  
+tcp6       0      0 :::32858                :::*                    LISTEN      28316/docker-proxy  
+tcp6       0      0 :::32859                :::*                    LISTEN      28420/docker-proxy  
+tcp6       0      0 :::32860                :::*                    LISTEN      28543/docker-proxy  
+tcp6       0      0 :::32861                :::*                    LISTEN      28714/docker-proxy  
+tcp6       0      0 :::32862                :::*                    LISTEN      29228/docker-proxy  
+tcp6       0      0 :::51678                :::*                    LISTEN      18712/agent         
+tcp6      32      0 10.240.37.95:36568      52.20.25.88:443         CLOSE_WAIT  7050/java           
+tcp6       0      0 127.0.0.1:31000         127.0.0.1:32000         ESTABLISHED 7050/java           
+tcp6       0      0 10.240.37.95:53552      52.32.27.235:443        ESTABLISHED 7050/java           
+tcp6      32      0 10.240.37.95:44868      54.149.176.70:443       CLOSE_WAIT  7050/java           
+udp        0      0 0.0.0.0:68              0.0.0.0:*                           3419/dhclient       
+udp        0      0 0.0.0.0:111             0.0.0.0:*                           2934/rpcbind        
+udp        0      0 0.0.0.0:161             0.0.0.0:*                           12313/snmpd         
+udp        0      0 127.0.0.1:323           0.0.0.0:*                           3027/chronyd        
+udp        0      0 0.0.0.0:881             0.0.0.0:*                           2934/rpcbind        
+udp6       0      0 :::111                  :::*                                2934/rpcbind        
+udp6       0      0 ::1:323                 :::*                                3027/chronyd        
+udp6       0      0 fe80::854:a0ff:fede:546 :::*                                3530/dhclient       
+udp6       0      0 :::881                  :::*                                2934/rpcbind        
